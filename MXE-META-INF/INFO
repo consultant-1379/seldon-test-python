@@ -1,0 +1,5 @@
+Title: Python test model
+Id: com.ericsson.mxe.test.python
+Version: 1.0.1
+Author: MXE
+Description: Python reference model for MXE with custom metrics.
